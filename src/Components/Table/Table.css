@@ -1,0 +1,13 @@
+.active {
+    color: blue;
+
+}
+
+.notActive {
+    color: black;
+
+}
+
+span:hover {
+    color: blue;
+}

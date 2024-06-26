@@ -1,0 +1,22 @@
+.gameWindow {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    width: 100px;
+}
+
+.margin {
+    margin-right: 10px;
+
+}
+
+.log {
+
+    margin: 10px auto;
+    width: 40%;
+    background-color: #ECF1FE;
+    border: 0 solid #cecece;
+    border-radius: 8px;
+}

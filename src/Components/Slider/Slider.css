@@ -1,0 +1,26 @@
+.hide {
+    display: none
+}
+
+.show {
+    display: inline-block
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+    padding: 5px;
+}
+
+span {
+    font-size: 40;
+    padding: 4px;
+}
+
+span:hover {
+    color: blue
+}

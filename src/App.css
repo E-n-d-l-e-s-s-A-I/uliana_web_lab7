@@ -1,0 +1,11 @@
+.section {
+    width: 90%;
+    margin: auto;
+}
+
+
+
+.main {
+    min-height: calc(100vh - 57px);
+
+}
