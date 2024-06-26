@@ -14,6 +14,8 @@ npm run dev
 # Компоненты
 Тут уже дофига всяких компонент, ограничусь картиночками
 ![Галерея](https://i.ibb.co/ZHSk1Ny/components1.jpg)
+![Таблица](https://i.ibb.co/s1FTqGt/components3.jpg)
+![Таблица](https://i.ibb.co/6R90fbN/components2.jpg)
 # Что может спросить Озерова
    1. Поменять количество отображаемых слайдов.
   
