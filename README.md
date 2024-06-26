@@ -16,10 +16,13 @@ npm run dev
 ![Галерея](https://i.ibb.co/ZHSk1Ny/components1.jpg)
 
 **Table**(из ее методички)
+
 ![Таблица](https://i.ibb.co/6R90fbN/components2.jpg)
 
 **Game**(из ее методички)
+
 ![Игра](https://i.ibb.co/s1FTqGt/components3.jpg)
+
 Основная структура сайта находится в ```App.jsx```
 # Что может спросить Озерова
    1. Поменять количество отображаемых слайдов.
